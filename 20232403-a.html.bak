@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style type="text/css">
+	img {
+		border-style:solid;
+		border-color:#555555;
+		}
+	h1  {
+		color:red;
+		}
+   body {
+		background:url("OIP-C.jpg")no-repeat center center fixed;
+		background-size:cover;
+		}
+</style>
+
+	<title></title>
+</head>
+<body>
+	<h1	align="center">我的简介</h1>
+	<font	size="5">
+	<p align="center">
+		姓名：<strong>熊闻君</strong><br>
+		<img src="20232403-a.jpg" width="200" border="6"><br>
+		班级：23级计科一班<br>
+		学号：<strong>20232403</strong><br>
+	</p>
+	<p	align="center">
+		我的爱好：听歌，<strong>学习</strong>。<br>
+	</p>
+	<p	align="center">
+		 我想成为的人：一个<strong>独立,自由</strong>的程序员。
+	</p>
+	<p><strong>版权所有-熊闻君</strong></p>
+	</font>
+</body>
+</html>
